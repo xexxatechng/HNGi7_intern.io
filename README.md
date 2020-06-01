@@ -1,2 +1,2 @@
 # HNGi7_intern.io
-HNGi7 internship projects 
+HNGi7 internship projects
